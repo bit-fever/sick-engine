@@ -1,6 +1,9 @@
 # Tiq Engine
 
-Runtime engine to run trading systems
+Runtime engine to run trading systems.
+
+**Note:** the main documentation of the platform is located [HERE](https://github.com/algotiqa/docs).
+
 
 ## License
 
